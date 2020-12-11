@@ -2,7 +2,7 @@
 O Locust é um framework para teste de carga de servidores web
 
 #Instalando
-pip install locustio
+pip install locust
 
 #Executando
 locust -f test.py
